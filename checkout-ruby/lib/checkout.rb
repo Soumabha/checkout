@@ -1,5 +1,3 @@
-require 'pry'
-
 class Checkout
   attr_accessor :cart_promotional_rule_list, :item_promotional_rule_map
 
