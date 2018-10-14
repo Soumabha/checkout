@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9482ae1-029b-4cd6-b446-d8e6ac17acc1" name="Default" comment="" />
+    <list default="true" id="f9482ae1-029b-4cd6-b446-d8e6ac17acc1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/RuleDiscountValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/enums/RuleDiscountEntityType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/enums/RuleDiscountValueType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/CartValueDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/Checkout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/CheckoutItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/ItemValueDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/PromotionalRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/PromotionalRuleHandlerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/RuleDiscountType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vinterior/checkout/test/IntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vinterior/checkout/test/unittests/ItemTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/RuleDiscountValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/enums/RuleDiscountEntityType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/enums/RuleDiscountValueType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/models/CartValueDiscount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/models/Checkout$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/models/Checkout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/models/CheckoutItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/models/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/models/ItemValueDiscount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/models/PromotionalRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/models/PromotionalRuleHandlerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinterior/checkout/models/RuleDiscountType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.vinterior.checkout.test.IntegrationTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.vinterior.checkout.test.IntegrationTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinterior/checkout/test/IntegrationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinterior/checkout/test/unittests/ItemTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vinterior-checkout.iml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,122 +44,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ItemValueDiscount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/ItemValueDiscount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/Item.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Checkout.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/Checkout.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PromotionalRuleHandlerFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/PromotionalRuleHandlerFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntegrationTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/vinterior/checkout/test/IntegrationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64">
-              <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PromotionalRule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/PromotionalRule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RuleDiscountValue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/RuleDiscountValue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RuleDiscountEntityType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/enums/RuleDiscountEntityType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CartValueDiscount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/CartValueDiscount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckoutItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/CheckoutItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,6 +53,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -157,9 +78,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/vinterior/checkout/test/IntegrationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/RuleDiscountValue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/ItemValueDiscount.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/CheckoutItem.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/PromotionalRule.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/Checkout.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/CheckoutItem.java" />
       </list>
     </option>
   </component>
@@ -185,12 +106,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="47" />
     <option name="y" value="23" />
     <option name="width" value="1393" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -288,7 +210,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Checkout&#9;FILE&#9;file:///Users/soumabha/Applications/vinterior-checkout/src/main/java/com/vinterior/checkout/models/CheckoutItem.java&#10;In&#9;FILE&#9;file:///Users/soumabha/Applications/vinterior-checkout/src/test/java/com/vinterior/checkout/test/IntegrationTest.java&#10;Item&#9;FILE&#9;file:///Users/soumabha/Applications/vinterior-checkout/src/main/java/com/vinterior/checkout/models/ItemValueDiscount.java&#10;integ&#9;FILE&#9;file:///Users/soumabha/Applications/vinterior-checkout/src/test/java/com/vinterior/checkout/test/IntegrationTest.java&#10;Chec&#9;FILE&#9;file:///Users/soumabha/Applications/vinterior-checkout/src/main/java/com/vinterior/checkout/models/CheckoutItem.java&#10;Promo&#9;FILE&#9;file:///Users/soumabha/Applications/vinterior-checkout/src/main/java/com/vinterior/checkout/models/PromotionalRule.java&#10;prom&#9;FILE&#9;file:///Users/soumabha/Applications/vinterior-checkout/src/main/java/com/vinterior/checkout/models/PromotionalRule.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
@@ -458,7 +380,7 @@
       <option name="presentableId" value="Default" />
       <updated>1539459429567</updated>
       <workItem from="1539459433926" duration="20906000" />
-      <workItem from="1539505707100" duration="1613000" />
+      <workItem from="1539505707100" duration="9535000" />
     </task>
     <servers />
   </component>
@@ -495,11 +417,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22519000" />
+    <option name="totallyTimeSpent" value="30441000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="23" width="1393" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -507,12 +428,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.2137574" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49926037" visible="true" weight="0.32948717" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49926037" visible="true" weight="0.31151515" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49713194" visible="true" weight="0.253886" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964789" visible="true" weight="0.2453505" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.50286806" side_tool="true" visible="true" weight="0.253886" />
+      <window_info id="Structure" order="1" sideWeight="0.50352114" side_tool="true" visible="true" weight="0.2453505" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926037" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -756,43 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/enums/RuleDiscountValueType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/CartValueDiscount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/CheckoutItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/enums/RuleDiscountEntityType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -800,20 +684,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/RuleDiscountValue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/PromotionalRuleHandlerFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/ItemValueDiscount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="390">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -822,28 +696,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/Checkout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="386">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/PromotionalRule.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/CartValueDiscount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/PromotionalRuleHandlerFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/ItemValueDiscount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/enums/RuleDiscountValueType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -852,8 +746,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/vinterior/checkout/test/IntegrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+        <state relative-caret-position="148">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/CheckoutItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/models/PromotionalRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vinterior/checkout/RuleDiscountValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
